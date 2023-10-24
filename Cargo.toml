@@ -1,5 +1,5 @@
 [package]
-name = "rs-cli"
+name = "somegrep"
 version = "0.1.0"
 edition = "2021"
 
